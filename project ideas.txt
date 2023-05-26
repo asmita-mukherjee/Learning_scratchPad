@@ -1,0 +1,13 @@
+1) project ideas
+
+All there is to text generation , from markov chains, to Large language models
+
+2) Different attention mechanisms and there visualization and explnation
+
+
+3) Exposure Bias and other things, work with scitldr data.
+
+
+4) Implement transformers.
+
+5) Controlled summarization, control via technical depth, control via 
