@@ -1,7 +1,0 @@
-Seq2Seq
-
-0) LSTM and RNN from scratch
-
-1) Encoder Decoder Architecture from scratch using LSTM and demonstrate the disadvantage
-
-2) Different kinds of attention with visualization
